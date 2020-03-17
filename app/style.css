@@ -6,6 +6,10 @@
 }
 
 /* containers */
+body {
+  background-color: #333;
+}
+
 #container {
   background-color: #333;
   display: flex;
@@ -29,9 +33,9 @@
 
 /* components */
 h1 {
-  padding-top: 2vw;
-  padding-bottom: 2vw;
-  font-size: 2vw;
+  padding-top: 1vw;
+  padding-bottom: 1vw;
+  font-size: 1.5vw;
 }
 
 h1#title {
