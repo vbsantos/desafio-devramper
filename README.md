@@ -49,7 +49,7 @@ Desafio retirado do site.
 
 ## A Resolução
 
-Foi utilizada a linguagem PHP para criar o algorítmo que desenha o diamante
+Foi utilizada a linguagem **PHP** para criar o algorítmo que desenha o diamante.
 
 Chama a função que desenha o diamante:
 
@@ -86,20 +86,20 @@ function drawRecDiamont($diamont, $letter, $currentLetter, $leftSpace, $innerSpa
 }
 ```
 
-Para fazer a funcionalidade que agrega na experiência do usuário utilizei HTML, CSS e JavaScript, criando uma interface que aguarda o usuário clicar em qualquer letra em seu teclado para desenhar um novo diamante.
+Para fazer a funcionalidade que agrega na experiência do usuário foi utilizado **HTML**, **CSS** e **JavaScript**, criando uma interface que aguarda o usuário clicar em qualquer letra em seu teclado para desenhar um novo diamante.
 
 Ao entrar:
 
 ![print1](screenshots/print1.png)
 
-Clicando na tecla "C":
+Ao pressionar a tecla "C":
 
 ![print2](screenshots/print2.png)
 
-Clicando na tecla "H":
+Ao pressionar a tecla "H":
 
 ![print3](screenshots/print3.png)
 
-Clicando na tecla "Z":
+Ao pressionar a tecla "Z":
 
 ![print4](screenshots/print4.png)
