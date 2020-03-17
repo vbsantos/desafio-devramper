@@ -13,6 +13,7 @@
         <h1 id="title">Desafio Dev Ramper!</h1>
         <h1 id="letter2">Aperte em qualquer letra</h1>
         <p id="letter1"> </p>
+        <h1 id="letter3"></h1>
       </section>
       <!-- RIGHT SIDE -->
       <section id="output">

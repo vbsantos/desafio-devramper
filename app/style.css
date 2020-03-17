@@ -18,17 +18,12 @@
 #input {
   background-color: #333;
   color: #f0f0f0;
-  /* width: 50vw; */
   text-align: center;
 }
 
 #output {
-  /* background-color: #f0f0f0;
-  color: #333; */
-  /* width: 50vw; */
   font-weight: bolder;
   color: #f0f0f0;
-  /* text-align: center; */
   padding: 0 10px 0 10px;
 }
 
@@ -50,14 +45,9 @@ p#letter1 {
   text-align: center;
   vertical-align: middle;
   font-size: 30vw;
-  /* width: 50vw;
-  height: 70vh; */
 }
 
 pre#diamont {
-  /* max-height: 100vh; */
-  /* max-width: 48vw; */
   font-size: 1.5vh;
   text-align: left;
-  /* margin-left: 2vw; */
 }
