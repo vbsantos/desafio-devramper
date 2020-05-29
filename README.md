@@ -1,12 +1,17 @@
-# Desafio Dev Ramper
+# Desafio Gente que Soma 1ª Edição
 
-O desafio tem como objetivo analisar a lógica utilizada na resolução do problema. A forma de organização e representação das informações ficam a cargo do participante, entretanto é necessário criar uma interface para que o usuário interaja com o desafio. Vale ressaltar que não serão permitidas cópias retiradas da internet, que consequentemente acarretará na desclassificação do candidato.
+Chegou a hora do desafio! Esta é uma etapa muito importante para a sua seleção na 1ª edição do Programa Gente Que Soma.
+
+## Sobre o desafio
+
+Vamos analisar a estratégia utilizada por você para resolvê-lo, bem como a forma de organização e representação. As informações no código-fonte ficam sob sua responsabilidade.
 
 Abaixo são listadas as linguagens permitidas para este desafio:
 
 - C#
 - Java
 - PHP
+- Javascript e derivados
 
 ## O Problema
 
@@ -92,11 +97,11 @@ Ao entrar:
 
 ![print1](screenshots/print1.png)
 
-Ao pressionar a tecla "C":
+Ao pressionar a tecla "F":
 
 ![print2](screenshots/print2.png)
 
-Ao pressionar a tecla "H":
+Ao pressionar a tecla "M":
 
 ![print3](screenshots/print3.png)
 
