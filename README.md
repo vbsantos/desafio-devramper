@@ -43,12 +43,7 @@ C   C
   A
 ```
 
-### Incremento
-
-Também é necessário criar um incremento adicional ao desafio, podendo ser qualquer funcionalidade que agregue na experiência do usuário.
-
-Desafio retirado do site.
-<http://dojopuzzles.com/problemas/exibe/diamantes/>
+Desafio foi retirado do: <http://dojopuzzles.com/problemas/exibe/diamantes/>
 
 ---
 
