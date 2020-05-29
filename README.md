@@ -86,7 +86,7 @@ function drawRecDiamont($diamont, $letter, $currentLetter, $leftSpace, $innerSpa
 }
 ```
 
-Para fazer a funcionalidade que agrega na experiência do usuário foi utilizado **HTML**, **CSS** e **JavaScript**, criando uma interface que aguarda o usuário clicar em qualquer letra em seu teclado para desenhar um novo diamante.
+Para fazer uma funcionalidade que agrega na experiência do usuário foi utilizado **HTML**, **CSS** e **JavaScript**, criando uma interface que aguarda o usuário clicar em qualquer letra em seu teclado para desenhar um novo diamante.
 
 Ao entrar:
 
